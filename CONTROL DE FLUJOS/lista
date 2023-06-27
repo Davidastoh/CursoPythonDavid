@@ -1,0 +1,6 @@
+# Creamos una lista vacía:
+lista =[]
+for i in range (5):
+    dato = input("ingresa un dato:")
+    lista.append(dato)
+print(lista)
