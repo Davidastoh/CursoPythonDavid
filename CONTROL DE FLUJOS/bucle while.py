@@ -1,4 +1,6 @@
-num= 0       #### num +=1 ## if num % 2 ==0: ##continue
+disco
+hdt
+cvnum= 0       #### num +=1 ## if num % 2 ==0: ##continue
 while num<21:
       print(num)
       num=num+2
