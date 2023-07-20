@@ -40,7 +40,10 @@ def contar_vocales_a(texto):
 def main():
     texto = input("ingresa un texto:")
     cantidad_vocales_a = contar_vocales_a(texto)
-    print("la cantidad de letras 'a' en el texto es:",cantidad_vocales_a)
+    print("la cantidad de vocales 'a' en el texto es:",cantidad_vocales_a)
 
 if __name__ == "__main__":
     main()
+
+
+
